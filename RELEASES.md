@@ -1,5 +1,11 @@
 # Release Notes
 
+## Version 0.17.0
+
+### Usability (0.17.0)
+
+- `InputMap` now requires `ActionState`, `InputManagerBundle` is deprecated.
+
 ## Version 0.16.0
 
 ## Depeendencies (0.16.0)
